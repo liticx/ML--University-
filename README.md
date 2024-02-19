@@ -1,6 +1,7 @@
 # Machine Learning Course Lab Work
 
 This repository contains all the lab work and tasks I completed as part of the Machine Learning course at IIITN.
+Yeah and also have some misc project I did as a side quest lol
 
 ## Introduction
 
